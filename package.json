@@ -17,7 +17,6 @@
     "http-errors": "~1.6.3",
     "mongoose": "^6.7.3",
     "morgan": "~1.9.1",
-    "standard-version": "^9.5.0",
     "yup": "^0.32.11"
   },
   "devDependencies": {
@@ -35,6 +34,7 @@
     "lint-staged": "^13.1.0",
     "nodemon": "^2.0.20",
     "prettier": "2.8.0",
+    "standard-version": "^9.5.0",
     "sync-dotenv": "^2.7.0"
   },
   "lint-staged": {
