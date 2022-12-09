@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.3](https://github.com/Alelsito/g16-node-and-mongo/compare/v0.0.3-alpha.0...v0.0.3) (2022-12-09)
+
+
+### Features
+
+* add description to brand posts ([5d34ace](https://github.com/Alelsito/g16-node-and-mongo/commit/5d34acecc2aaa00fc0496477fe833a41cd8f64ed))
+
 ### 0.0.3-alpha.0 (2022-12-09)
 
 
