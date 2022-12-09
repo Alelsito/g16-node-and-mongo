@@ -12,6 +12,7 @@ const { Brand } = require('../model');
 router.post('/', validationsCreateBrand, (req, res) => {
   const brand = new Brand();
   brand.name = req.body.name;
+  brand.description = req.body.name;
 
   Brand.save((error, brandStored) => {
     if (error) {
